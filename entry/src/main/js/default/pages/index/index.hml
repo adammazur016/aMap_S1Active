@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="flex-box">
+        <div class="flex-item" style="height: 250px;width: 250px;align-items: center; justify-content: center;">
+            <image src="{{image}}" style="height: 250px;width: 250px;"></image>
+        </div>
+        <div class="flex-item" style="height: 40px;width: 300px;align-items: center; justify-content: center;" onclick="click">
+            <text>{{title}}</text>
+        </div>
+    </div>
+</div>
